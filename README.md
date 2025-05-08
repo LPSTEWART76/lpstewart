@@ -1,2 +1,3 @@
 # lpstewart
 GEOG3540/lpstewart - Logan Stewart
+Hello, my name is Logan Stewart and I am currently a senior at the University of Iowa. I am graduating with a B.S. in Environmental Science as well as a Geoscience minor and GIS certificate. I grew up in Ankeny, Iowa, and have always enjoyed the outdoors. When I am not working on school, I tend to enjoy my time hiking a new trail, tyring a new recipe, and relaxing by playing some board games with friends. My primary discipline I have focused on is water, primarily water quality. As for the future, I plan to stay here for a few years working as a hydrologist for the USGS, and progress into grad school or another role outside of Iowa.
